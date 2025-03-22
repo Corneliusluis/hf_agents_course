@@ -51,7 +51,7 @@ See `requirements.txt` for details.
 Contributions are welcome! Feel free to submit issues or pull requests if you find improvements or wish to add resources.
 
 ## License
-This repository is open-sourced under the APACHE 2.0 License.
+This repository is open-sourced under the Apache License 2.0.
 
 ## Author
 Cornelius
