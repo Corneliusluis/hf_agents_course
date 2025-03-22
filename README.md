@@ -16,11 +16,12 @@ This repository covers:
 
 The repository is organized into clearly labeled directories:
 
-- `/lectures`: Lecture slides and notes.
-- `/examples`: Code examples for quick reference and implementation.
-- `/exercises`: Hands-on assignments and practice problems.
-- `/solutions`: Reference solutions to exercises.
-- `/resources`: Additional readings, tutorials, and external links.
+- `/lectures`: Markdown notes and slides for each lecture.
+- `/notebooks`: Interactive Jupyter notebooks demonstrating concepts and examples.
+- `/assignments`: Practical assignments for hands-on learning.
+- `/solutions`: Reference solutions for each assignment.
+- `/scripts`: Useful scripts for training, environment setup, and other automation tasks.
+- `/resources`: Additional readings, external links, and helpful cheatsheets.
 
 ## Getting Started
 
